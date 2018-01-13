@@ -1,0 +1,15 @@
+{
+    "extends": "google",
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "experimentalObjectRestSpread": true
+        }
+    },
+    "rules": {
+        "camelcase": [2, {"properties": "never"}],
+        "new-cap": [2, { "capIsNew": false }],
+        "linebreak-style": [2, "windows"]
+    }
+}
