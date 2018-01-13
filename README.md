@@ -1,6 +1,6 @@
 # Todoist Sync Node API
-[![Build Status](https://travis-ci.org/alexdunne/todoist-sync-node-api.svg?branch=master)](https://travis-ci.org/alexdunne/todoist-sync-node-api)
-[![Code Climate](https://codeclimate.com/github/alexdunne/todoist-sync-node-api/badges/gpa.svg)](https://codeclimate.com/github/alexdunne/todoist-sync-node-api)
+[![Build Status](https://travis-ci.org/deysuman/Todoist-sync-node-api.svg?branch=master)](https://travis-ci.org/deysuman/Todoist-sync-node-api)
+
 
 A wrapper around the [Todoist Sync API](https://developer.todoist.com/?shell#api-overview) written in Javascript.
 
